@@ -1,6 +1,6 @@
-# capstone
+# Management-Website
 
-Capstone for Group A, 2019
+
 
 Username: rusty
 
