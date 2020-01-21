@@ -1,6 +1,6 @@
 # Management-Website
 
-Kevin Zheng & Jared Caruso
+Authors: Kevin Zheng & Jared Caruso
 
 Username: rusty
 
