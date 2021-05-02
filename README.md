@@ -2,12 +2,6 @@
 
 Authors: Kevin Zheng & Jared Caruso
 
-Username: rusty
-
-Password: Password1
-
-http://www.jcaruso.site/groupa19/signin.php
-
 ------
 
 EZ Cheezy is needing a website to perform certain tasks. There will be a front end website
